@@ -1,0 +1,23 @@
+### New Feature
+[ Date ]
+
+#### Branch:
+
+---------
+
+#### Description:
+>Full Description
+
+>Main Gameplay Changes:
+(If Any)
+
+#### I/O:
+(If Any)
+>KeyValues:
+
+>Inputs:
+
+>Outputs:
+
+#### Possible solution ideas:
+(Every possible idea)
