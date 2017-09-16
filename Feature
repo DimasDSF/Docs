@@ -2,22 +2,25 @@
 [ Date ]
 
 #### Branch:
+` `
 
 ---------
 
-#### Description:
->Full Description
+### Description:
 
->Main Gameplay Changes:
-(If Any)
+### Changes:
+>Overall change description
+>New Features:
+- [ ]
 
-#### I/O:
-(If Any)
+>Changes to existing features:
+- [ ]
+
+### I/O:
 >KeyValues:
-
+- [ ]
 >Inputs:
-
+- [ ]
 >Outputs:
-
-#### Possible solution ideas:
-(Every possible idea)
+- [ ]
+### Possible solution ideas:
