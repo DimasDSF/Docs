@@ -14,12 +14,3 @@
 
 >Changes to existing features:
 - [ ]
-
-### I/O:
->KeyValues:
-- [ ]
->Inputs:
-- [ ]
->Outputs:
-- [ ]
-### Possible solution ideas:
