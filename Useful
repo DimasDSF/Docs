@@ -1,0 +1,7 @@
+Useful stylization methods
+--------------------------
+
+<sup>text</sup> - top index
+<sub>text</sub> - bottom index
+
+~~text~~ - strike through
